@@ -1,0 +1,51 @@
+**Documentations**
+
+Project Timeline -		Care of (Alvin)	(Done)
+Project Charter -		Care of (Alvin and Janine) (Done)
+
+*User Interface**
+
+Home Screen / Main Menu   - 	Care of (John Viane and Janine)		March 6,2018 (Done)
+Splash Screen Layout - 		Care of (John Viane and Janine)		March 9,2018 (Done)
+Play Button Menu - 		Care of (John Viane)			March 9,2018 (Done)
+Main Game Screen - 		Care of (John Viane)			March 9,2018 (Done)
+Question Contribution Screen -  Care of (John Viane)			March 9,2018 (Done)
+About Screen - 			Care of (John Viane)			March 9,2018 (Done)
+
+
+**Functionality**
+
+Buttons Functions 
+
+Button 1(PLAY) - 	 	 Care of (Miguel) 	March 6,2018 (Done)
+Button 2(LEADERBOARD) -   	 Care of (Miguel)	March 6,2018 (Done)
+Button 3(ABOUT) - 	 	 Care of (Miguel)	March 6,2018 (Done)
+Button 4(EXIT) - 	 	 Care of (Miguel)	March 6,2018 (Done)
+Button 5(TAKE THE QUIZ) - 	 Care of (Miguel)	March 6,2018 (Done)
+Button 6(CONTRIBUTE A QUESTION)- Care of (Miguel)	March 6,2018 (Done)
+Button 7(BACK) - 		 Care of (Miguel)	March 6,2018 (Done)
+Button 8(SAVE) - 		 Care of (Miguel)	March 6,2018 (Done)
+
+
+Text Field 1 (Question Input) 			(Saving to Database) - Care of (Miguel and Alvin)	March 17,2018 (Done)
+Text Field 2 (Question Answer/Options)		(Saving to Database) - Care of (Miguel and Alvin)	March 17,2018 (Done)
+Text Field 3 (Correct Answer)			(Saving to Database) - Care of (Miguel)			March 17,2018 (Done)
+Text Field 4 (Enter Name)			(Saving to Database) - Care of (Miguel)			March 18,2018 (Done)
+
+
+Score functionality				Care of (Miguel) (Done)  March 22,2018
+Time functionality				Care of (Miguel) (Done)  March 22,2018
+
+Leaderboard Display				Care of (Miguel) (Done) (Saving to Database) - March 24,2018
+
+Main Game Functionality (Full System Running)   Care of (Miguel) March 24,2018(Done)
+
+
+**System Testing and Corrections**
+Test Run of Application 			Care of (Janine)	March 24,2018 (Done)
+Layout Corrections/button Corrections		Care of (Janine)	March 24,2018 (Done)
+Button Functionalities				Care of (Janine)	March 24,2018 (Done)
+Data Storing to Database			Care of (Janine)	March 24,2018 (Done)
+
+
+
